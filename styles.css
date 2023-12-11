@@ -35,6 +35,8 @@ header ul a {
     align-items: center;
     background: #1f2937; 
     color: white;
+    padding: 100px 30px;
+    gap: 20px; 
 
 }
 
@@ -53,6 +55,7 @@ header ul a {
 .img-ai-touch {
     max-width: 350px;
     height: auto;
+    border-radius: 10px;
 }
 
 .section-2 h2 {
@@ -64,12 +67,14 @@ header ul a {
     flex-direction: row;
     justify-content: space-evenly;
     gap: 10px; 
+    flex-wrap: wrap;
 }
 
 .cards img {
     max-width: 100%;
     max-height: 100px;
     height: auto;
+    border-radius: 10px;
 }
 
 .card-1, .card-2, .card-3, .card-4 {
