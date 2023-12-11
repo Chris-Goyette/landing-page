@@ -66,10 +66,6 @@ header ul a {
     gap: 10px; 
 }
 
-.cards div {
-    border: 2px red solid;
-}
-
 .cards img {
     max-width: 100%;
     max-height: 100px;
@@ -81,5 +77,10 @@ header ul a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    max-width: 200px;
 
+}
+
+.card-1 p, .card-2 p, .card-3 p, .card-4 p {
+    text-align: center;
 }
