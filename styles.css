@@ -1,3 +1,8 @@
+body {
+    margin: 0; /* Override browser defaults*/
+    padding: 0; /* Override browser defaults*/
+}
+
 header {
     display: flex;
     background: #1f2937;
