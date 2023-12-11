@@ -7,11 +7,14 @@ header {
     display: flex;
     background: #1f2937;
     color: white; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
 }
 
 .header div {
     font-size: 24px;
-    margin-right: auto;
+    /* margin-right: auto; */
 }
 
 header ul {
@@ -23,4 +26,36 @@ header ul {
 header ul a {
     text-decoration: none;
     color: white
+}
+
+.section-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background: #1f2937; 
+    color: white;
+
+}
+
+.section-1 div {
+    border: 2px red solid;
+}
+
+.section-1 div p {
+    color: #e5e7eb
+}
+
+.section-1 div button {
+    background-color: #3882f6; 
+    color: white; 
+    padding: 5px;
+    border-radius: 8px;
+    width: 100px; 
+}
+
+.img-ai-touch {
+    max-width: 350px;
+    height: auto;
+    border: 2px red solid;
 }
