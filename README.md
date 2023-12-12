@@ -4,6 +4,8 @@
 
 This project is part of my journey through The Odin Project, showcasing my growing skills in web development. For this specific project, I've created a landing page based on a provided design, emphasizing my ability to convert designs into functional web pages.
 
+Live Preview --> [Here](https://chris-goyette.github.io/landing-page/)
+
 ## Project Description
 
 The Landing Page project is a practical exercise in building a webpage from a set of design images. The goal is to replicate the design as closely as possible, using HTML and CSS, and to understand the process of translating a static design into a dynamic webpage.
@@ -40,21 +42,7 @@ As with previous projects, this project is managed through a Git repository, sho
 
 ## Viewing the Project
 
-The project is hosted using GitHub Pages, making it easily accessible for demonstration purposes. It can be viewed at `[your-github-username].github.io/[your-github-repo-name]`.
-
-## Support The Odin Project
-
-This project is part of The Odin Project curriculum - a community-driven effort to provide high-quality coding education. Contributions to this open-source project are welcome.
-
-- **Donate:** [Link to Donate](#)
-- **Learn More:** [About The Odin Project](#)
-
-### Connect with the Community
-
-- [GitHub](#)
-- [Discord](#)
-- [Facebook](#)
-- [Twitter](#)
+The project is hosted using GitHub Pages, making it easily accessible for demonstration purposes. It can be viewed at `https://chris-goyette.github.io/landing-page/`.
 
 ---
 
