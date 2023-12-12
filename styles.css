@@ -89,3 +89,19 @@ header ul a {
 .card-1 p, .card-2 p, .card-3 p, .card-4 p {
     text-align: center;
 }
+
+.section-3 {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+}
